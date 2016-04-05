@@ -112,3 +112,5 @@ array(3) { ["status"]=> int(1) ["startTime"]=> string(14) "20160405134841" ["end
 int(1)
 ```
 
+## 实例
+某客户定制的 [WordPress 插件](http://coolwp.com/lecloud-for-wplms.html)。
