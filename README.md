@@ -48,7 +48,7 @@ var_dump($event_id);
             'playMode' => 0,
         );
 ```
-以上各个参数的含义解释见(创建活动接口)[http://help.lecloud.com/Wiki.jsp?page=Activitycreate]页面。
+ 以上各个参数的含义解释见[创建活动接口](http://help.lecloud.com/Wiki.jsp?page=Activitycreate) 页面。
 
 上述 `create`方法将会返回直播ID。
 
